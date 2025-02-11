@@ -20,4 +20,5 @@ helped me learn more and understand the concepts this assignment was offering.
 ## Discussion Questions:
 1. What does the bootstrap `display-4` class do?
 
-Helps in controling the display of elements.
+Helps in controling the display of elements. For example, making text elements bigger
+for headers and such.
